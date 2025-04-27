@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    font-size: 11px;
+    background-color: white;
+    color: #333333;
+}
+
+h1 {
+    margin: 50px;
+    font-size: 28px;
+    background-color: white;
+    color: #00b899;
+}
+h2 {
+    color: #00a800;
+    font-size: 24px;
+    font-family: Georgia, serif;
+}
+h3 {
+    color: #00a800;
+    font-size: 24px;
+    font-family: Georgia, serif;
+}
+p {
+    color: black;
+    font-size: 18px;
+    font-family: Georgia, serif;
+}
+li {
+    color: black;
+    font-size: 18px;
+    font-family: Georgia, serif;
+}
